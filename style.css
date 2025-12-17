@@ -13,7 +13,7 @@ h1 {
     font-family: "Germania One", serif;
     line-height: 1.2em;
     text-align: center;
-    font-size: 2em;
+    font-size: 2.5em;
     margin-bottom: 10px;
 }
 
@@ -27,7 +27,7 @@ h2 {
 .content {
     margin: 1em;
     background: #fffa;
-    padding: 0em 2em 2em 2em;
+    padding: 0.1em 2em 2em 2em;
     border-radius: 5px;
 }
 
