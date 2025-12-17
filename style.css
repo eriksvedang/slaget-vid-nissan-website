@@ -1,7 +1,7 @@
 body {
-    font-family: sans-serif;
-    font-size: 1.4em;
-    line-height: 1.2em;
+    font-family: 'Georgia', serif;
+    font-size: 1.3em;
+    line-height: 1.4em;
     background: #abc;
     background-image: url("img/Fog.jpeg");
     background-repeat: no-repeat;
@@ -10,13 +10,14 @@ body {
 }
 
 h1 {
-    font-family: "Ribeye", serif;
+    font-family: "Germania One", serif;
     line-height: 1.2em;
     text-align: center;
     font-size: 2em;
 }
 
 h2 {
+    font-family: "Bungee Shade", sans-serif;
     margin: 2em 0em 0em 0em;
     font-size: 1.1em;
     line-height: 1.2em;
@@ -24,9 +25,9 @@ h2 {
 
 .content {
     margin: 1em;
-    background: #fffc;
+    background: #fffa;
     padding: 0em 2em 2em 2em;
-    border-radius: 4px;
+    border-radius: 5px;
 }
 
 .banner {
@@ -43,8 +44,4 @@ a {
 
 a:hover {
     color: #555;
-}
-
-p {
-    line-height: 1.4em;
 }
